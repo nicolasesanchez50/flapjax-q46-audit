@@ -1,0 +1,212 @@
+{
+  "token": "0x90c8889f428F9Ebb77BB8f15CAD3a50a9aC680df",
+  "symbol": "FLAPJAX",
+  "decimals": 18,
+  "chain": "BNB Smart Chain (56)",
+  "target_block": 129454096,
+  "target_block_hash": "0x09a7b51e2ecdab8663f65afbdff35c410d249d78edbe3cc58ca54ee8b201e862",
+  "target_block_time_utc": "2026-10-24T04:59:59+00:00",
+  "deploy_block": 44582615,
+  "total_supply_at_block": "44444444444000000000000000000",
+  "total_supply_tokens": "44444444444.000000",
+  "transfer_logs_scanned": 5804,
+  "minted_total": "44444444444000000000000000000",
+  "burned_to_zero": "0",
+  "holder_count_nonzero": 279,
+  "sum_of_balances": "44444444444000000000000000000",
+  "sum_equals_supply": true,
+  "top20": [
+    {
+      "rank": 1,
+      "address": "0xca93ec685b8623688e6b236f9068034b298c2150",
+      "balance": "20048955849847997966429118451",
+      "balance_tokens": "20048955849.848000",
+      "share_pct": 45.110151,
+      "code_len": 22962,
+      "kind": "contract"
+    },
+    {
+      "rank": 2,
+      "address": "0x740a3b4a91cb8fa47e85d7f9713ca6ec2f8a037e",
+      "balance": "5619844348598993998769163970",
+      "balance_tokens": "5619844348.598994",
+      "share_pct": 12.64465,
+      "code_len": 22962,
+      "kind": "contract"
+    },
+    {
+      "rank": 3,
+      "address": "0x58fab046ce77064bf52c2eff4e163eb84386b8b4",
+      "balance": "2334009348875000000000000000",
+      "balance_tokens": "2334009348.875000",
+      "share_pct": 5.251521,
+      "code_len": 0,
+      "kind": "eoa"
+    },
+    {
+      "rank": 4,
+      "address": "0x000000000000000000000000000000000000dead",
+      "balance": "1923471159703770945293578174",
+      "balance_tokens": "1923471159.703771",
+      "share_pct": 4.32781,
+      "code_len": 0,
+      "kind": "eoa"
+    },
+    {
+      "rank": 5,
+      "address": "0x2ea90ff709b0fb5decd1de944f644eecdc26d33a",
+      "balance": "1175621343198940751591630110",
+      "balance_tokens": "1175621343.198941",
+      "share_pct": 2.645148,
+      "code_len": 0,
+      "kind": "eoa"
+    },
+    {
+      "rank": 6,
+      "address": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+      "balance": "848761365008444134380867071",
+      "balance_tokens": "848761365.008444",
+      "share_pct": 1.909713,
+      "code_len": 0,
+      "kind": "eoa"
+    },
+    {
+      "rank": 7,
+      "address": "0x238a358808379702088667322f80ac48bad5e6c4",
+      "balance": "649733956867655012274145208",
+      "balance_tokens": "649733956.867655",
+      "share_pct": 1.461901,
+      "code_len": 8347,
+      "kind": "contract"
+    },
+    {
+      "rank": 8,
+      "address": "0xf0e319587b54db351f4a20e2da09848fed4d8151",
+      "balance": "621698620153862035019976481",
+      "balance_tokens": "621698620.153862",
+      "share_pct": 1.398822,
+      "code_len": 0,
+      "kind": "eoa"
+    },
+    {
+      "rank": 9,
+      "address": "0x5dedb37eaa9145dd1a17d385d8c5e256871d6f16",
+      "balance": "611866236479140970515983357",
+      "balance_tokens": "611866236.479141",
+      "share_pct": 1.376699,
+      "code_len": 0,
+      "kind": "eoa"
+    },
+    {
+      "rank": 10,
+      "address": "0x9a937a531a3e4b7930a49548b64c4a3471d049e2",
+      "balance": "610074149236058951494657443",
+      "balance_tokens": "610074149.236059",
+      "share_pct": 1.372667,
+      "code_len": 0,
+      "kind": "eoa"
+    },
+    {
+      "rank": 11,
+      "address": "0xdbf2bdecf7dff212880552398b42e0ab997523a7",
+      "balance": "588854986027098745000000000",
+      "balance_tokens": "588854986.027099",
+      "share_pct": 1.324924,
+      "code_len": 0,
+      "kind": "eoa"
+    },
+    {
+      "rank": 12,
+      "address": "0x4492ca070a2caea1502fb807b389b62ab32eb0d3",
+      "balance": "586603504417275704449255607",
+      "balance_tokens": "586603504.417276",
+      "share_pct": 1.319858,
+      "code_len": 0,
+      "kind": "eoa"
+    },
+    {
+      "rank": 13,
+      "address": "0xc1fa91a815f59215aaefff20ea5c2f6718488d9a",
+      "balance": "559775724986657156000000000",
+      "balance_tokens": "559775724.986657",
+      "share_pct": 1.259495,
+      "code_len": 0,
+      "kind": "eoa"
+    },
+    {
+      "rank": 14,
+      "address": "0x7b6396e12928bee509473a2af01b30268343b7d5",
+      "balance": "525463217000000000000000000",
+      "balance_tokens": "525463217.000000",
+      "share_pct": 1.182292,
+      "code_len": 0,
+      "kind": "eoa"
+    },
+    {
+      "rank": 15,
+      "address": "0x4e1d0ab0c3730469c79c6746d222a28af81367ee",
+      "balance": "482021894326264513146345975",
+      "balance_tokens": "482021894.326265",
+      "share_pct": 1.084549,
+      "code_len": 0,
+      "kind": "eoa"
+    },
+    {
+      "rank": 16,
+      "address": "0x3a38d9c6a55f41286913b666501fb602bf0d05a2",
+      "balance": "482000000000000000000000000",
+      "balance_tokens": "482000000.000000",
+      "share_pct": 1.0845,
+      "code_len": 0,
+      "kind": "eoa"
+    },
+    {
+      "rank": 17,
+      "address": "0x5197681f65d2280d34866ee5a8c343bc67a71b20",
+      "balance": "482000000000000000000000000",
+      "balance_tokens": "482000000.000000",
+      "share_pct": 1.0845,
+      "code_len": 0,
+      "kind": "eoa"
+    },
+    {
+      "rank": 18,
+      "address": "0xe4ab694afb5499e6313e946c97d32e6c3fa5b754",
+      "balance": "444444445010803226282390787",
+      "balance_tokens": "444444445.010803",
+      "share_pct": 1.0,
+      "code_len": 0,
+      "kind": "eoa"
+    },
+    {
+      "rank": 19,
+      "address": "0x74441dd9edc99fb5a66e7b35f139ce0e9fbd0954",
+      "balance": "407298532686207407481217779",
+      "balance_tokens": "407298532.686207",
+      "share_pct": 0.916422,
+      "code_len": 0,
+      "kind": "eoa"
+    },
+    {
+      "rank": 20,
+      "address": "0x639e263ce57bcee9866f01b1e6166fa20f965239",
+      "balance": "383287277524234555000000000",
+      "balance_tokens": "383287277.524235",
+      "share_pct": 0.862396,
+      "code_len": 0,
+      "kind": "eoa"
+    }
+  ],
+  "concentration": {
+    "top5_pct": 69.97928,
+    "top10_pct": 77.499082,
+    "top20_pct": 88.618018,
+    "top5_tokens": "31101902050.224705",
+    "top10_tokens": "34444036377.969864",
+    "top20_tokens": "39385785959.948402"
+  },
+  "top20_kinds": {
+    "contracts": 3,
+    "eoa": 17
+  }
+}

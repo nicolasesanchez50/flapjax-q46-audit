@@ -1,0 +1,22 @@
+{
+  "0xca93ec685b8623688e6b236f9068034b298c2150": {
+    "name": "PancakeSwap V3 FLAPJAX/WBNB pool (1% fee tier)",
+    "source": "Identified on-chain at the snapshot block: PancakeSwap V3 factory `0x0BFbCF9fa4f9C56B0F40a671Ad40E0805A091865` `getPool(FLAPJAX, WBNB, 10000)` returns exactly this address, and the address itself answers `token0()` = FLAPJAX, `token1()` = WBNB (`0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c`), `fee()` = 10000. FlapJax's own site names the same address as the 'primary V3 FLAPJAX/WBNB 0xcA93…215' pool (https://flapjax.surge.sh/)."
+  },
+  "0x740a3b4a91cb8fa47e85d7f9713ca6ec2f8a037e": {
+    "name": "PancakeSwap V3 FLAPJAX/BTCB pool (1% fee tier)",
+    "source": "Identified on-chain at the snapshot block: the same PancakeSwap V3 factory's `getPool(BTCB 0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c, FLAPJAX, 10000)` returns exactly this address; the address answers `token0()` = BTCB, `token1()` = FLAPJAX, `fee()` = 10000. BTCB is Binance-Peg BTC, whose own `symbol()` on this chain is 'BTCB'."
+  },
+  "0x000000000000000000000000000000000000dead": {
+    "name": "burn address (0x…dEaD)",
+    "source": "No code at the snapshot block (`eth_getCode` returns empty), and in the token's full transfer history this address has 10 inbound transfers and zero outbound — the conventional BSC burn sink. The token's zero address holds nothing and no FLAPJAX was ever burned to `0x0`."
+  },
+  "0x2ea90ff709b0fb5decd1de944f644eecdc26d33a": {
+    "name": "FlapJax project wallet",
+    "source": "FlapJax's own site refers to 'our own wallet 0x2ea90ff7…d33a' as the source of a one-time 10,000,000 FJ seed to the treasury at block 121,836,175 (https://flapjax.surge.sh/). That exact transfer is in our scan — block 121,836,175, 10,000,000 FLAPJAX, this address to the treasury — and this wallet received FLAPJAX in the token's deployment block itself (44582615)."
+  },
+  "0x7c34e9e21ee28a49ff0b84b61774119e6633359f": {
+    "name": "FlapJax treasury",
+    "source": "Named as the treasury in the task brief ('our treasury 0x7C34E9e21eE28A49Ff0b84B61774119E6633359f') and on https://flapjax.surge.sh/. Consistent with that role in the scanned log: 3 inbound transfers and 104 outbound — it is the paying side of the daily buybacks and agent payouts."
+  }
+}
